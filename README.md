@@ -1,5 +1,7 @@
 # CSharp-Katas
 
+[![Build status](https://ci.appveyor.com/api/projects/status/nrb32pb8uqjsxw69?svg=true)](https://ci.appveyor.com/project/cj-taylor/csharp-katas)
+
 ## What is this? 
 
 This repository is a place to practice C# code katas with the help of peers while getting build/test feedback. 
