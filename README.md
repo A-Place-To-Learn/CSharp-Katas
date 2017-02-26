@@ -13,3 +13,6 @@ This repository is a place to practice C# code katas with the help of peers whil
 1. Attempt the kata while making an effort to unit test it 
 1. Pull request your attempt for feedback and questions 
 
+## Have questions or don't know where to start? 
+
+Feel free to open [issues](https://github.com/Helping-Others-Learn/CSharp-Katas/issues/new) to start the conversation. 
